@@ -1,0 +1,59 @@
+body {
+	background: transparent url(images/big-bg-blur.jpg) no-repeat;
+}
+.navbar-inner {
+	background-color: #743E21;
+	background-image: none;
+	border: 0;
+}
+.navbar .brand-logo {
+	width: 40px;
+	float: left;
+	margin: 0 12px;
+}
+.navbar .brand {
+	color: #e3eacb;
+	text-shadow: none;
+}
+.header {
+	margin-top: 60px;
+	text-align: center;
+}
+.hl {
+	margin-bottom: 72px;
+}
+.hl .hl-item {
+	position: relative;
+}
+.hl .hl-item.hl-item-down {
+	padding-top: 24px;
+}
+.hl .hl-item .hl-item-label {
+	position: absolute;
+	bottom: 5px;
+	left: 5px;
+	background-color: #333;
+	color: #EEE;
+	display: block;
+	width: 220px;
+	text-align: center;
+	padding-top: 3px;
+}
+.project-title {
+	text-align: center;
+	margin-bottom: 24px;
+}
+.menu {
+	list-style-type: none;
+	background-color: #FFF;
+}
+.menu .menu-item {
+	display: block;
+	float: left;
+	padding: 12px;
+	font-size: 1.2em;
+	font-weight: bold;
+}
+.clear {
+	clear: both;
+}
